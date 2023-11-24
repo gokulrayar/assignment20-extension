@@ -1,0 +1,7 @@
+C:\Users\rayar\source\repos\Extension assignment\Extension assignment\bin\Debug\Extension assignment.exe.config
+C:\Users\rayar\source\repos\Extension assignment\Extension assignment\bin\Debug\Extension assignment.exe
+C:\Users\rayar\source\repos\Extension assignment\Extension assignment\bin\Debug\Extension assignment.pdb
+C:\Users\rayar\source\repos\Extension assignment\Extension assignment\obj\Debug\Extension assignment.csproj.AssemblyReference.cache
+C:\Users\rayar\source\repos\Extension assignment\Extension assignment\obj\Debug\Extension assignment.csproj.CoreCompileInputs.cache
+C:\Users\rayar\source\repos\Extension assignment\Extension assignment\obj\Debug\Extension assignment.exe
+C:\Users\rayar\source\repos\Extension assignment\Extension assignment\obj\Debug\Extension assignment.pdb
